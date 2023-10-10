@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">MyFirstAppDio</string>
     <string name="hello_world">Hello World!</string>
+    <string name="paragrafo_principal"> This is a text to be displayed on the screen and confirm that the translation works </string>
 </resources>
