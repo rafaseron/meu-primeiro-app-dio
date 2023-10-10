@@ -11,6 +11,8 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
     <!-- TODO: adicionar tradução para o idioma padrão no texto "hello world" -->
+    <!-- tu tem que criar as strings diretamente no strings.xml
+     dai depois tu anexa aqui pra puxar elas para serem exibidas na view -->
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
